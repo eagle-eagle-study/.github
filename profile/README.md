@@ -1,5 +1,8 @@
 # 🔥**이글이글 스터디**
 
+- StartDate: 2024.09.30 ~
+- Member: [syyoo](https://github.com/kafkaaaa), [jwlee](https://github.com/jiwonman)
+
 <br>
 
 ## 📘 스터디 계획
@@ -14,3 +17,4 @@
 
 - 불참 시 *아쉬운거지..*
 
+- 노션을 이용하여 전체적인 스터디 개요 및 회의 정리
